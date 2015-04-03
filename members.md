@@ -117,7 +117,6 @@ Format:
 | Eugene Pustovit | [logiartis](https://github.com/logiartis) ||
 | Espen R | [Seewhen](https://github.com/seewhen) | C++ background with java and php. Huge AI geek|
 | Felipe B Coelho | [feliupe](https://github.com/feliupe) | Computer Science undergrad. Basic: C, Java, HTML/CSS/JS. Looking for: Python, Ruby, C++. |
-| Filip S | [Introspectard](https://github.com/Introspectard) | Familiar with most programming concepts, very little practice so far |
 | Frank Harvey | [superking84](https://github.com/superking84) | Majority of my experinece is in Python, however I have some basic web dev experience (JavaScript, HTML, CSS).  My real goal is not necessarily to master any given language, but rather to become a well-rounded programmer. |
 | Gabriel Barth-Maron | [fastturtle](https://github.com/fastturtle) | Experience with Python and eager to learn anything, especially about contributing to FOSS.|
 | Geoff Cowan | [tomatosource](https://github.com/tomatosource) | Currrently 3rd year Soft Eng student. Basic python, java, C, JS and haskell skills. Looking to get some OSS project experience. |
@@ -225,6 +224,7 @@ Format:
 | Per K | [stressmf](https://github.com/stressmf) ||
 | Peter Baumgarten | [baumgarp](https://github.com/baumgarp) | Computer Science student with experience in Java, Python, MIPS assembly, Lisp, and is experienced with Linux and the command line.  Looking forward to contributing to FOSS projects. |
 | Peter Molnar | [petermolnar-hu](https://github.com/petermolnar-hu) | I want to reuse and reshape my previous developer experience from years ago (dBase, Clipper, FoxPRO and Delphi). I am interested in Java, Objective-C, PHP, and C projects. Goal to be a software engineer. |
+| Philip H | [Introspectard](https://github.com/Introspectard) | Familiar with most concepts, very little actual experience |
 | Philip Smith | [rstack](https://github.com/rstack) | Some Perl and Ruby development experience.  Looking to better my skills and aid the OpenSource community while building my portfolio simultaneously. |
 | Piyush Khemka | [piy9] (https://github.com/piy9) | Computer Science student. Want to get started with Open Source. 
 | Quentin Chouleur | [Oflocet](https://github.com/Oflocet) ||
